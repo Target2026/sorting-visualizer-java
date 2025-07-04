@@ -9,7 +9,7 @@ This project is perfect for practicing **DSA concepts**, **multithreading**, and
 
 ## 📸 **Project Preview**
 
-![Sorting Visualizer Screenshot](screenshot.png)  
+![Sorting Visualizer Screenshot](screenshot1.png)  
 *(Add your own screenshot here!)*
 
 ---
